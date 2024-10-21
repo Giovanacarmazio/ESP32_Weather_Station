@@ -53,5 +53,3 @@ O **ESP32 Weather Station** é projetado para capturar dados meteorológicos loc
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests* para melhorias.
 ```
 
-
-#### [![Watch the video](https://github.com/Giovanacarmazio/Estacao-Met-ESP32/blob/99e863e0bae925536c5d80c8ad4d6e21216c6895/Capturar.PNG)](https://youtu.be/V4x7wthNLDM) 
